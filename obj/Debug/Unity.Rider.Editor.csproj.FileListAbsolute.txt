@@ -1,0 +1,2 @@
+D:\ymProject\TTT\obj\Debug\Unity.Rider.Editor.csproj.AssemblyReference.cache
+D:\ymProject\TTT\obj\Debug\Unity.Rider.Editor.csproj.CoreCompileInputs.cache

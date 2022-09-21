@@ -1,0 +1,2 @@
+D:\ymProject\TTT\obj\Debug\UnityEditor.TestRunner.csproj.AssemblyReference.cache
+D:\ymProject\TTT\obj\Debug\UnityEditor.TestRunner.csproj.CoreCompileInputs.cache

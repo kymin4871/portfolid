@@ -1,0 +1,2 @@
+D:\ymProject\TTT\obj\Debug\Unity.Timeline.Editor.csproj.AssemblyReference.cache
+D:\ymProject\TTT\obj\Debug\Unity.Timeline.Editor.csproj.CoreCompileInputs.cache
